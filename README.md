@@ -1,7 +1,7 @@
 # Pacman Game
 
 ## Overview
-Yatzy is a classic game where a Pacman character tries to gain as many point as possible while avoiding the ghost. This project is an implementation of Pacman in JavaScript, HTML, and CSS.
+Pacman is a classic game where a Pacman character tries to gain as many point as possible while avoiding the ghost. This project is an implementation of Pacman in JavaScript, HTML, and CSS.
 
 ## How to Play
 1. **Start the Game:** Once you have read the instructions, click outside the window to go to the game. Click the "Start" button to start the game.
