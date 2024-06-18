@@ -13,16 +13,16 @@ The game interface is designed to be user-friendly. Below are screenshots of var
 
 ### Screenshots
 #### Main Menu
-![Main Menu](screenshots/main_menu_instructions.png)
+![Main Menu](design_system/main_menu_instructions.png)
 
 #### Initial Game State
-![Rolling Dice](screenshots/initial_game_state.png)
+![Rolling Dice](design_system/initial_game_state.png)
 
 #### Playing the game
-![Selecting Dice](screenshots/gameplay.png)
+![Selecting Dice](design_system/gameplay.png)
 
 #### Game Over!
-![Scoring](screenshots/game_over.png)
+![Scoring](design_system/game_over.png)
 
 
 ## Visual Design System
