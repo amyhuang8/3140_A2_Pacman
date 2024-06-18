@@ -26,5 +26,5 @@ The game interface is designed to be user-friendly. Below are screenshots of var
 
 
 ## Visual Design System
-Can be found in the design_system folder 
+Can be found in the design_system folder, along with the assets used. 
 
