@@ -22,8 +22,8 @@ This document outlines the visual design system for the Pacman game we did for A
 - **Text Color**: white - Used for the color of score board display
 
 ## Fonts and Sizes
-- **Primary Font**: 'Pixieboy', sans-serif - Used for all text contained in game (Used for h1, #begin-button, .modal-content, modal-instruction-content, #restart, and p elements) 
-
+- **Primary Fonts**: 'Pixieboy', sans-serif - Used for all text contained in game (Used for h1, #begin-button, .modal-content, modal-instruction-content, #restart, and p elements) 
+- **Sizes**: 4vw for all header and button text, font-size: 30px for intsructions. 
 
 ## Assets
 All design-related assets are located in the `/docs/design_system` directory.
