@@ -24,6 +24,7 @@ It includes the structural components, colour palette, and font styles used thro
 
 ## Fonts and Sizes
 - **Primary Font**: 'Pixieboy', sans-serif - Used for all text contained in game (Used for h1, #begin-button, modal-text, #restart, and p elements) 
+- **Sizes**: 4vw for all button and footer texts; 3vh for header text; responsive font sizing for modal text, with clamp(1rem, 3vw, 5rem)
 
 ## Assets
 All design-related assets are located in the `/docs/design_system` directory.
