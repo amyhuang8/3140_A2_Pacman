@@ -75,10 +75,10 @@ function endGame() {
 
     // PROCESS: removing keydown event listener
     document.removeEventListener("keydown", handleKeyDown);
-
     displayGameOver(); //calling modal
 
 }
+
 
 /**
  * This function displays the game over modal.

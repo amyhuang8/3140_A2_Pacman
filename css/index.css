@@ -93,7 +93,7 @@ h1 {
 .modal-content {
     position: absolute;
     width: 50vw;
-    height: 60vh;
+    height: 65vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -104,6 +104,15 @@ h1 {
     text-align: center;
 }
 
+.modal-instruction-content {
+    position: absolute;
+    text-align: center;
+    top: 80%;
+    left: 50%;    
+    font-size: 30px;
+    transform: translate(-50%, -50%);
+    font-family: 'Pixieboy', sans-serif;
+}
 .modal-text {
     color: #000000;
 }
@@ -135,4 +144,22 @@ h1 {
 /* AUDIO */
 audio {
     display: none;
+}
+
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: lightpink;
+    text-align: center;
+}
+
+p {
+    padding: 0;
+    font-family: 'Pixieboy', sans-serif;
+    font-size: 4vw;
+    max-height: 3vh;
+    
 }
