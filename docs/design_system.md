@@ -29,5 +29,4 @@ This document outlines the visual design system for the Pacman game we did for A
 All design-related assets are located in the `/docs/design_system` directory.
 - Header design: `header_design.png`
 - Footer design: `footer_design.png`
-- Play area design: `play_area_design.png`
-etc. 
+- Play area design: `play_area_design.png`...etc. 
