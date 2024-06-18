@@ -3,10 +3,10 @@
     <head>
         <!--META DATA-->
         <meta charset="UTF-8">
-        <meta name="author" content="Amy Huang">
+        <meta name="author" content="Amy Huang & Anoushka Jawale">
         <meta name="creation_date" content="May 28, 2024">
-        <meta name="last_updated" content="June 6, 2024">
-        <meta name="description" content="This is my work for lab 3 of CSI 3140.">
+        <meta name="last_updated" content="June 18, 2024">
+        <meta name="description" content="This is our work for Assignment 2 of CSI 3140, built off of Amy's Lab 3 content.">
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -24,13 +24,13 @@
     </head>
 
     <body>
-        <!--GAME STATS-->
-        <div>
+        <!--HEADER/GAME STATS-->
+        <header>
             <h1 id="score">Score: 0</h1>
             <h1 id="high-score">High Score: 0</h1>
             <h1 id="level">Level: 1</h1>
             <button id="begin-button" onclick="resetGame();">Start</button>
-        </div>
+        </header>
 
         <!--GAME BOARD-->
         <div class="game-borders" style="height: 25vh;">
@@ -43,37 +43,35 @@
 
         <!--INSTRUCTIONS MODAL -->
         <div id="instructionsModal" class="modal">
-            <div class="modal-content">
+            <span class="modal-content">
                 <h1 class="modal-text">Instructions:</h1>
-                <br>
                 <h1 class="modal-text">Use A/D or left/right arrow keys to change direction!</h1>
+                <h2 class="modal-text">Click outside to START.</h2>
                 <br>
-                <h2 class="modal-instruction-content">Click outside to START.</h2>
-                <br>
-            </div>
+            </span>
         </div>
 
         <!--GAME OVER MODAL -->
         <div id="gameOverModal" class="modal">
-            <div class="modal-content">
-                <h1 class="modal-text">Game over! Do you want to play again?</h1>
-            </div>
-            <button id="restart">Restart</button>
+            <span class="modal-content">
+                <h1 class="modal-text">Game over!</h1>
+                <h1 class="modal-text">Do you want to play again?</h1>
+                <button id="restart">Restart</button>
+            </span>
         </div>
-
 
         <!--AUDIOS-->
         <audio id="bgm" src="resources/audio/beat_pacman.mp3" loop></audio>
         <audio id="sfx-fruit" src="resources/audio/sfx_fruit.mp3"></audio>
         <audio id="sfx-level-up" src="resources/audio/sfx_level-up.mp3"></audio>
         <audio id="sfx-game-over" src="resources/audio/sfx_game-over.mp3"></audio>
-       
-       
+
+        <!--FOOTER-->
+        <footer>
+            <p>1D PACMAN 2024</p>
+        </footer>
 
         <!--SCRIPT-->
         <script type="text/javascript" src="js/index.js"></script>
     </body>
-    <footer>
-        <p>PACMAN 2024</p>    
-    </footer>
 </html>

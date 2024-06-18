@@ -1,12 +1,12 @@
-# Pacman Game
+# 1D Pacman Game
 
 ## Overview
-Pacman is a classic game where a Pacman character tries to gain as many point as possible while avoiding the ghost. This project is an implementation of Pacman in JavaScript, HTML, and CSS.
+Pacman is a classic game where a Pacman character tries to gain as many points as possible while avoiding the ghost. This project is an implementation of 1D Pacman in JavaScript, HTML, and CSS.
 
 ## How to Play
-1. **Start the Game:** Once you have read the instructions, click outside the window to go to the game. Click the "Start" button to start the game.
-2. **Avoid the ghost and eat the pellets:** Avoid the ghost by switching directions according to the instructions.You can advance in levels if you keep beating the ghost.  
-3. **Game Over:** The game ends when your Pacman bumps into the ghost. A restart window will appear. Click Restart button to start from level 1. 
+1. **Start the Game:** Once you have read the instructions, click outside the modal to enter the game board. Click the "Start" button to begin the game.
+2. **Avoid the ghost and eat the pellets:** Avoid the ghost by switching directions according to the instructions.You can advance in levels if you continue beating the ghost.
+3. **Game Over:** The game ends when your Pacman bumps into the ghost. A restart modal will appear. Click the "Restart" button to start from level 1.
 
 ## User Interface
 The game interface is designed to be user-friendly. Below are screenshots of various states of the game interface.

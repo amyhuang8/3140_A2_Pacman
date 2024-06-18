@@ -1,5 +1,5 @@
 /*
-Author: Amy Huang
+Author: Amy Huang & Anoushka Jawale
 Creation Date: May 28, 2024
 Last Updated: June 6, 2024
 Description: This JavaScript file contains functions for manipulating the index.html file.
