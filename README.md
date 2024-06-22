@@ -1,4 +1,5 @@
 # 1D Pacman Game
+Amy Huang (300240777) & Anoushka Jawale (300233148)
 
 ## Overview
 Pacman is a classic game where a Pacman character tries to gain as many points as possible while avoiding the ghost. This project is an implementation of 1D Pacman in JavaScript, HTML, and CSS.
